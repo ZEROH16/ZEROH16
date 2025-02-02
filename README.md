@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi there! I'm **ZEROH16**, a passionate student and enthusiast in the field of programming. I have a strong interest in **cybersecurity** and aspire to build a career in this area. I am constantly learning and improving my skills to stay up to date with the latest technologies and security practices.
+Hi there! I'm **Pedro** better known as **ZEROH16**, a passionate student and enthusiast in the field of programming. I have a strong interest in **cybersecurity** and aspire to build a career in this area. I am constantly learning and improving my skills to stay up to date with the latest technologies and security practices.
 
 ## GitHub Stats
 
